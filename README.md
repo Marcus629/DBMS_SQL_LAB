@@ -22,8 +22,8 @@ The Repository contains the following files:
   Explains the purpose of the assignment, file structure, and execution instructions.
 
   ## How to Execute the SQL Scripts
-  1.Open the folder containing 'lab1_solution.sql' and open cmd in the address bar
-  2.Now Write sqlplus system in cmd
-  3.Then enter your password
-  4.Now Write @DB__Lab1.sql
+  1.Open the folder containing 'lab1_solution.sql' and open cmd in the address bar\
+  2.Now Write sqlplus system in cmd\
+  3.Then enter your password\
+  4.Now Write @DB__Lab1.sql\
   5.you will get the intended table
