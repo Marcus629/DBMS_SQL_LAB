@@ -11,7 +11,7 @@ All sql queries are written in single .sql file as per the given instruction/gui
 ## Repository Structure
 The Repository contains the following files:
 
--'lab1_solution.sql'
+- `lab1_solution.sql`
    Contains all SQL queries for the assignment, including table creation, alteration,
   data insertion, selection, updates, and deletion
 
