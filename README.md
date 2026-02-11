@@ -6,6 +6,8 @@ It Covers Both:\
 -DDL(Data Defination language) For Creating and modifying the table\
 -DML(Data Manipulating language) For inserting,updating,deleting and showing the table
 
+It also contains ER diagram Assignment with questions and image attached to it
+
 All sql queries are written in single .sql file as per the given instruction/guidelines and are to be intended to execute in SQL*Plus
 
 ## Repository Structure
