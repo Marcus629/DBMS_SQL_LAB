@@ -5,7 +5,7 @@
 - Course: B.Tech (Engineering)
 - Subject: Database Management Systems
 - Lab Work Repository
-- Reg no:23105128059
+- Reg No :23105128059
 
 ---
 
