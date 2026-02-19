@@ -1,4 +1,4 @@
-# DBMS_SQL_LAB_1
+# DBMS_SQL_LAB_1 and 2
 DBMS Lab assignment using Oracle SQL*Plus
 ## What The Assignment is about
 This assignment is focuses on learning SQL Commands by Using SQL Plus.\
