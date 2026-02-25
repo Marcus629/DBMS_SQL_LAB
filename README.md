@@ -25,5 +25,6 @@ All experiments are implemented using Oracle SQL (SQL*Plus).
 - SQL*Plus
 - SQL (DDL, DML, DQL)
 - Git & GitHub
+- VS Code
 
 ---
